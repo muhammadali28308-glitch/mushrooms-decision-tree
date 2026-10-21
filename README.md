@@ -9,7 +9,7 @@ Is project mein humne Mushroom dataset ka analysis kiya hai taake pata chal sake
 - **Key Insight:** Jis mushroom ki smell 'foul' ya 'fishy' hai, wo 100% poisonous hota hai!
 
 ## 🤖 Machine Learning Models
-Maine 3 models try kiye aur unki accuracy compare ki:
+
 1. **Decision Tree:** 96.94% Accuracy (Tuned)
 2. **Random Forest:** 93.15% Accuracy
 3. **XGBoost:** 100% Accuracy 🏆
